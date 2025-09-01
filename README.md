@@ -15,7 +15,7 @@ Quando non sto programmando, probabilmente mi trovi a rilassarmi con Spotify nel
 - **JavaScript**  ✨
 - **TypeScript**  🔷
 - **Docker**  🐳
-- **Discord.hs**  💬
+- **Discord.js**  💬
 
 ---
 
